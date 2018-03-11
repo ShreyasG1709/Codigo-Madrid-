@@ -7,11 +7,11 @@ cout<<"Enter no. to check even/odd"<<endl;
 cin>>n;
 if((n&1)==1)
 {
-cout<<"It is a ODD no."<<endl;
+   cout<<"It is a ODD no."<<endl;
 }
 else
 {
-cout<<"It is EVEN no."<<endl;
+   cout<<"It is EVEN no."<<endl;
 }
 return 0;
 }
