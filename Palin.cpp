@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+  
 int n,n1,d,rn;
 cout<<"Enter a NO. to check Palindrome"<<endl;
 cin>>n;
